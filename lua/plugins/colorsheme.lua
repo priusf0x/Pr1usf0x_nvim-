@@ -1,4 +1,4 @@
-return 
-{
-  "folke/tokyonight.nvim"
+return {
+  "rose-pine/neovim",
+  name = "rose-pine",
 }
